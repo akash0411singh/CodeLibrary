@@ -11,5 +11,5 @@ file: dijkstra.cpp
 file: floydwarshall.cpp
 ##  Shortest path
 file:  shortest path
-## topological sort algorithm
+## Topological Sort algorithm
 file: topsort.cpp
